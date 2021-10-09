@@ -1,0 +1,34 @@
+ul  {
+	list-style: none;
+	margin: 20;
+	color: white;
+	text-align: center
+}
+
+.scolaire, .experience, .hobbies, .Contact, .titre,.competence {
+	text-align: center;
+	background-color: #29aee3;
+	margin: 20;
+	border: 5px white groove;
+}
+
+form {
+	position: absolute;
+	left: 52%;
+	width: 300px; 
+	height: 200px; 
+	margin-left: -150px;
+	
+}
+
+body {
+	background-color: #302f2f;
+}
+button{
+	position: absolute;
+	background-color: #29aee3;
+	width: 222px
+}
+h5{
+	color: white;
+}
